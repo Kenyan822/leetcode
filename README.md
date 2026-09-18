@@ -3,14 +3,9 @@
 [arai60](https://1kohei1.com/leetcode/) を[ソフトウェアエンジニアリング協会](https://www.swe.or.jp/)の
 コーディング練習会の進め方で解いた記録。
 
-## 次の1問
-
-**（ここに次に解く問題を書く。そのままレビュー依頼の「予告」に使う）**
-
 ## 進捗
 
-- arai60: 0 / 60（丸 0）
-- レビューした問題:
+arai60: 0 / 60
 
 ## 進め方
 
@@ -18,71 +13,71 @@
 |---|---|
 | **step1** | 5分考えて分からなければ答えを見る。見たら全部消してやり直し。AC したら第一段階 |
 | **step2** | 読みやすく整える。過去に同じ問題を解いた人の解答を読み、コメントを予測する |
-| **step3** | 全部消して書き直す。**10分以内・ノーエラー・3回連続**で丸 |
+| **step3** | 全部消して書き直す。**10分以内・ノーエラー・3回連続**で済 |
 
 各問題のディレクトリに `step1.py` / `step2.py` / `step3.py` / `memo.md` を置く。
 
 ## 一覧
 
-| カテゴリ | # | 問題 | 段階 | 丸にした日 |
-|---|---|---|---|---|
-| LinkedList | 141 | [Linked List Cycle](./141-linked-list-cycle/) | | |
-| LinkedList | 142 | [Linked List Cycle II](./142-linked-list-cycle-ii/) | | |
-| LinkedList | 83 | [Remove Duplicates from Sorted List](./83-remove-duplicates-from-sorted-list/) | | |
-| LinkedList | 82 | [Remove Duplicates from Sorted List II](./82-remove-duplicates-from-sorted-list-ii/) | | |
-| LinkedList | 2 | [Add Two Numbers](./2-add-two-numbers/) | | |
-| Stack | 20 | [Valid Parentheses](./20-valid-parentheses/) | | |
-| Stack | 206 | [Reverse Linked List](./206-reverse-linked-list/) | | |
-| Heap, PriorityQueue | 703 | [Kth Largest Element in a Stream](./703-kth-largest-element-in-a-stream/) | | |
-| Heap, PriorityQueue | 347 | [Top K Frequent Elements](./347-top-k-frequent-elements/) | | |
-| Heap, PriorityQueue | 373 | [Find K Pairs with Smallest Sums](./373-find-k-pairs-with-smallest-sums/) | | |
-| HashMap | 1 | [Two Sum](./1-two-sum/) | | |
-| HashMap | 49 | [Group Anagrams](./49-group-anagrams/) | | |
-| HashMap | 349 | [Intersection of Two Arrays](./349-intersection-of-two-arrays/) | | |
-| HashMap | 929 | [Unique Email Addresses](./929-unique-email-addresses/) | | |
-| HashMap | 387 | [First Unique Character in a String](./387-first-unique-character-in-a-string/) | | |
-| HashMap | 560 | [Subarray Sum Equals K](./560-subarray-sum-equals-k/) | | |
-| Graph, BFS, DFS | 200 | [Number of Islands](./200-number-of-islands/) | | |
-| Graph, BFS, DFS | 695 | [Max Area of Island](./695-max-area-of-island/) | | |
-| Graph, BFS, DFS | 323 | [Number of Connected Components in an Undirected Graph](./323-number-of-connected-components-in-an-undirected-graph/) | | |
-| Graph, BFS, DFS | 127 | [Word Ladder](./127-word-ladder/) | | |
-| Tree, BT, BST | 104 | [Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree/) | | |
-| Tree, BT, BST | 111 | [Minimum Depth of Binary Tree](./111-minimum-depth-of-binary-tree/) | | |
-| Tree, BT, BST | 617 | [Merge Two Binary Trees](./617-merge-two-binary-trees/) | | |
-| Tree, BT, BST | 108 | [Convert Sorted Array to Binary Search Tree](./108-convert-sorted-array-to-binary-search-tree/) | | |
-| Tree, BT, BST | 112 | [Path Sum](./112-path-sum/) | | |
-| Tree, BT, BST | 102 | [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal/) | | |
-| Tree, BT, BST | 103 | [Binary Tree Zigzag Level Order Traversal](./103-binary-tree-zigzag-level-order-traversal/) | | |
-| Tree, BT, BST | 98 | [Validate Binary Search Tree](./98-validate-binary-search-tree/) | | |
-| Tree, BT, BST | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal/) | | |
-| Dynamic Programming | 276 | [Paint Fence](./276-paint-fence/) | | |
-| Dynamic Programming | 300 | [Longest Increasing Subsequence](./300-longest-increasing-subsequence/) | | |
-| Dynamic Programming | 53 | [Maximum Subarray](./53-maximum-subarray/) | | |
-| Dynamic Programming | 62 | [Unique Paths](./62-unique-paths/) | | |
-| Dynamic Programming | 63 | [Unique Paths II](./63-unique-paths-ii/) | | |
-| Dynamic Programming | 198 | [House Robber](./198-house-robber/) | | |
-| Dynamic Programming | 213 | [House Robber II](./213-house-robber-ii/) | | |
-| Dynamic Programming | 121 | [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock/) | | |
-| Dynamic Programming | 122 | [Best Time to Buy and Sell Stock II](./122-best-time-to-buy-and-sell-stock-ii/) | | |
-| Dynamic Programming | 139 | [Word Break](./139-word-break/) | | |
-| Dynamic Programming | 322 | [Coin Change](./322-coin-change/) | | |
-| Binary Search | 35 | [Search Insert Position](./35-search-insert-position/) | | |
-| Binary Search | 153 | [Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array/) | | |
-| Binary Search | 33 | [Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array/) | | |
-| Binary Search | 1011 | [Capacity To Ship Packages Within D Days](./1011-capacity-to-ship-packages-within-d-days/) | | |
-| Recursion | 50 | [Pow(x, n)](./50-powx-n/) | | |
-| Recursion | 779 | [K-th Symbol in Grammar](./779-k-th-symbol-in-grammar/) | | |
-| Recursion | 776 | [Split BST](./776-split-bst/) | | |
-| Sliding Window | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | | |
-| Sliding Window | 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | | |
-| Greedy + Backtracking | 46 | [Permutations](./46-permutations/) | | |
-| Greedy + Backtracking | 78 | [Subsets](./78-subsets/) | | |
-| Greedy + Backtracking | 39 | [Combination Sum](./39-combination-sum/) | | |
-| Greedy + Backtracking | 22 | [Generate Parentheses](./22-generate-parentheses/) | | |
-| その他 | 283 | [Move Zeroes](./283-move-zeroes/) | | |
-| その他 | 252 | [Meeting Rooms](./252-meeting-rooms/) | | |
-| その他 | 253 | [Meeting Rooms II](./253-meeting-rooms-ii/) | | |
-| その他 | 392 | [Is Subsequence](./392-is-subsequence/) | | |
-| その他 | 31 | [Next Permutation](./31-next-permutation/) | | |
-| その他 | 8 | [String to Integer (atoi)](./8-string-to-integer-atoi/) | | |
-| その他 | 6 | [ZigZag Conversion](./6-zigzag-conversion/) | | |
+| カテゴリ | # | 問題 | LeetCode | 済 | 日付 |
+|---|---|---|---|---|---|
+| LinkedList | 141 | [Linked List Cycle](./0141-linked-list-cycle/) | [↗](https://leetcode.com/problems/linked-list-cycle/) |  |  |
+| LinkedList | 142 | [Linked List Cycle II](./0142-linked-list-cycle-ii/) | [↗](https://leetcode.com/problems/linked-list-cycle-ii/) |  |  |
+| LinkedList | 83 | [Remove Duplicates from Sorted List](./0083-remove-duplicates-from-sorted-list/) | [↗](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |  |  |
+| LinkedList | 82 | [Remove Duplicates from Sorted List II](./0082-remove-duplicates-from-sorted-list-ii/) | [↗](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) |  |  |
+| LinkedList | 2 | [Add Two Numbers](./0002-add-two-numbers/) | [↗](https://leetcode.com/problems/add-two-numbers/) |  |  |
+| Stack | 20 | [Valid Parentheses](./0020-valid-parentheses/) | [↗](https://leetcode.com/problems/valid-parentheses/) |  |  |
+| Stack | 206 | [Reverse Linked List](./0206-reverse-linked-list/) | [↗](https://leetcode.com/problems/reverse-linked-list/) |  |  |
+| Heap, PriorityQueue | 703 | [Kth Largest Element in a Stream](./0703-kth-largest-element-in-a-stream/) | [↗](https://leetcode.com/problems/kth-largest-element-in-a-stream/) |  |  |
+| Heap, PriorityQueue | 347 | [Top K Frequent Elements](./0347-top-k-frequent-elements/) | [↗](https://leetcode.com/problems/top-k-frequent-elements/) |  |  |
+| Heap, PriorityQueue | 373 | [Find K Pairs with Smallest Sums](./0373-find-k-pairs-with-smallest-sums/) | [↗](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) |  |  |
+| HashMap | 1 | [Two Sum](./0001-two-sum/) | [↗](https://leetcode.com/problems/two-sum/) |  |  |
+| HashMap | 49 | [Group Anagrams](./0049-group-anagrams/) | [↗](https://leetcode.com/problems/group-anagrams/) |  |  |
+| HashMap | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays/) | [↗](https://leetcode.com/problems/intersection-of-two-arrays/) |  |  |
+| HashMap | 929 | [Unique Email Addresses](./0929-unique-email-addresses/) | [↗](https://leetcode.com/problems/unique-email-addresses/) |  |  |
+| HashMap | 387 | [First Unique Character in a String](./0387-first-unique-character-in-a-string/) | [↗](https://leetcode.com/problems/first-unique-character-in-a-string/) |  |  |
+| HashMap | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k/) | [↗](https://leetcode.com/problems/subarray-sum-equals-k/) |  |  |
+| Graph, BFS, DFS | 200 | [Number of Islands](./0200-number-of-islands/) | [↗](https://leetcode.com/problems/number-of-islands/) |  |  |
+| Graph, BFS, DFS | 695 | [Max Area of Island](./0695-max-area-of-island/) | [↗](https://leetcode.com/problems/max-area-of-island/) |  |  |
+| Graph, BFS, DFS | 323 | [Number of Connected Components in an Undirected Graph](./0323-number-of-connected-components-in-an-undirected-graph/) | [↗](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) |  |  |
+| Graph, BFS, DFS | 127 | [Word Ladder](./0127-word-ladder/) | [↗](https://leetcode.com/problems/word-ladder/) |  |  |
+| Tree, BT, BST | 104 | [Maximum Depth of Binary Tree](./0104-maximum-depth-of-binary-tree/) | [↗](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  |  |
+| Tree, BT, BST | 111 | [Minimum Depth of Binary Tree](./0111-minimum-depth-of-binary-tree/) | [↗](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |  |  |
+| Tree, BT, BST | 617 | [Merge Two Binary Trees](./0617-merge-two-binary-trees/) | [↗](https://leetcode.com/problems/merge-two-binary-trees/) |  |  |
+| Tree, BT, BST | 108 | [Convert Sorted Array to Binary Search Tree](./0108-convert-sorted-array-to-binary-search-tree/) | [↗](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |  |  |
+| Tree, BT, BST | 112 | [Path Sum](./0112-path-sum/) | [↗](https://leetcode.com/problems/path-sum/) |  |  |
+| Tree, BT, BST | 102 | [Binary Tree Level Order Traversal](./0102-binary-tree-level-order-traversal/) | [↗](https://leetcode.com/problems/binary-tree-level-order-traversal/) |  |  |
+| Tree, BT, BST | 103 | [Binary Tree Zigzag Level Order Traversal](./0103-binary-tree-zigzag-level-order-traversal/) | [↗](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  |  |
+| Tree, BT, BST | 98 | [Validate Binary Search Tree](./0098-validate-binary-search-tree/) | [↗](https://leetcode.com/problems/validate-binary-search-tree/) |  |  |
+| Tree, BT, BST | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | [↗](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |  |  |
+| Dynamic Programming | 276 | [Paint Fence](./0276-paint-fence/) | [↗](https://leetcode.com/problems/paint-fence/) |  |  |
+| Dynamic Programming | 300 | [Longest Increasing Subsequence](./0300-longest-increasing-subsequence/) | [↗](https://leetcode.com/problems/longest-increasing-subsequence/) |  |  |
+| Dynamic Programming | 53 | [Maximum Subarray](./0053-maximum-subarray/) | [↗](https://leetcode.com/problems/maximum-subarray/) |  |  |
+| Dynamic Programming | 62 | [Unique Paths](./0062-unique-paths/) | [↗](https://leetcode.com/problems/unique-paths/) |  |  |
+| Dynamic Programming | 63 | [Unique Paths II](./0063-unique-paths-ii/) | [↗](https://leetcode.com/problems/unique-paths-ii/) |  |  |
+| Dynamic Programming | 198 | [House Robber](./0198-house-robber/) | [↗](https://leetcode.com/problems/house-robber/) |  |  |
+| Dynamic Programming | 213 | [House Robber II](./0213-house-robber-ii/) | [↗](https://leetcode.com/problems/house-robber-ii/) |  |  |
+| Dynamic Programming | 121 | [Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock/) | [↗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  |  |
+| Dynamic Programming | 122 | [Best Time to Buy and Sell Stock II](./0122-best-time-to-buy-and-sell-stock-ii/) | [↗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |  |  |
+| Dynamic Programming | 139 | [Word Break](./0139-word-break/) | [↗](https://leetcode.com/problems/word-break/) |  |  |
+| Dynamic Programming | 322 | [Coin Change](./0322-coin-change/) | [↗](https://leetcode.com/problems/coin-change/) |  |  |
+| Binary Search | 35 | [Search Insert Position](./0035-search-insert-position/) | [↗](https://leetcode.com/problems/search-insert-position/) |  |  |
+| Binary Search | 153 | [Find Minimum in Rotated Sorted Array](./0153-find-minimum-in-rotated-sorted-array/) | [↗](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |  |  |
+| Binary Search | 33 | [Search in Rotated Sorted Array](./0033-search-in-rotated-sorted-array/) | [↗](https://leetcode.com/problems/search-in-rotated-sorted-array/) |  |  |
+| Binary Search | 1011 | [Capacity To Ship Packages Within D Days](./1011-capacity-to-ship-packages-within-d-days/) | [↗](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |  |  |
+| Recursion | 50 | [Pow(x, n)](./0050-powx-n/) | [↗](https://leetcode.com/problems/powx-n/) |  |  |
+| Recursion | 779 | [K-th Symbol in Grammar](./0779-k-th-symbol-in-grammar/) | [↗](https://leetcode.com/problems/k-th-symbol-in-grammar/) |  |  |
+| Recursion | 776 | [Split BST](./0776-split-bst/) | [↗](https://leetcode.com/problems/split-bst/) |  |  |
+| Sliding Window | 3 | [Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters/) | [↗](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  |  |
+| Sliding Window | 209 | [Minimum Size Subarray Sum](./0209-minimum-size-subarray-sum/) | [↗](https://leetcode.com/problems/minimum-size-subarray-sum/) |  |  |
+| Greedy + Backtracking | 46 | [Permutations](./0046-permutations/) | [↗](https://leetcode.com/problems/permutations/) |  |  |
+| Greedy + Backtracking | 78 | [Subsets](./0078-subsets/) | [↗](https://leetcode.com/problems/subsets/) |  |  |
+| Greedy + Backtracking | 39 | [Combination Sum](./0039-combination-sum/) | [↗](https://leetcode.com/problems/combination-sum/) |  |  |
+| Greedy + Backtracking | 22 | [Generate Parentheses](./0022-generate-parentheses/) | [↗](https://leetcode.com/problems/generate-parentheses/) |  |  |
+| その他 | 283 | [Move Zeroes](./0283-move-zeroes/) | [↗](https://leetcode.com/problems/move-zeroes/) |  |  |
+| その他 | 252 | [Meeting Rooms](./0252-meeting-rooms/) | [↗](https://leetcode.com/problems/meeting-rooms/) |  |  |
+| その他 | 253 | [Meeting Rooms II](./0253-meeting-rooms-ii/) | [↗](https://leetcode.com/problems/meeting-rooms-ii/) |  |  |
+| その他 | 392 | [Is Subsequence](./0392-is-subsequence/) | [↗](https://leetcode.com/problems/is-subsequence/) |  |  |
+| その他 | 31 | [Next Permutation](./0031-next-permutation/) | [↗](https://leetcode.com/problems/next-permutation/) |  |  |
+| その他 | 8 | [String to Integer (atoi)](./0008-string-to-integer-atoi/) | [↗](https://leetcode.com/problems/string-to-integer-atoi/) |  |  |
+| その他 | 6 | [ZigZag Conversion](./0006-zigzag-conversion/) | [↗](https://leetcode.com/problems/zigzag-conversion/) |  |  |
