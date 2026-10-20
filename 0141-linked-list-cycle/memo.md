@@ -20,4 +20,8 @@ https://leetcode.com/problems/linked-list-cycle/
 
 <!-- 1. 8:32 / エラー1（どこで間違えたか） -->
 
+1. 1:19 / ノーエラー
+2. 1:15 / ノーエラー
+3. 1:12 / ノーエラー → 済
+
 ## memo
